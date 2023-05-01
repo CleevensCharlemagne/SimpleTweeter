@@ -7,7 +7,7 @@ combines the best libraries and structure to enable quick development of rich AP
 
  * Authenticating with any OAuth 1.0a or OAuth 2 API.
  * Sending requests for and parsing JSON API data using a defined client.
- * Persisting data to a local SQLite store through an ORM layer
+ * Persisting data to a local SQLite store through an ORM layer.
  * Displaying and caching remote image data into views
 
 The following libraries are used to make this possible:

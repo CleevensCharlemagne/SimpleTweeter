@@ -6,7 +6,7 @@ RestClientTemplate is a skeleton Android project that makes writing Android apps
 combines the best libraries and structure to enable quick development of rich API clients. The following things are supported out of the box:
 
  * Authenticating with any OAuth 1.0a or OAuth 2 API.
- * Sending requests for and parsing JSON API data using a defined client
+ * Sending requests for and parsing JSON API data using a defined client.
  * Persisting data to a local SQLite store through an ORM layer
  * Displaying and caching remote image data into views
 
